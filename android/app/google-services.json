@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659228416718",
+    "project_id": "giftlyapp-fcdc8",
+    "storage_bucket": "giftlyapp-fcdc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659228416718:android:72c871e538c1c44ff24e9f",
+        "android_client_info": {
+          "package_name": "com.albrns00.giftly_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiyISREEgjCFXaN9iIoTUM0zIR852ckZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
